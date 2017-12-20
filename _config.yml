@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://rohindaswani.github.io/allaboutart/gallery/"
+  - JOURNAL: "https://rohindaswani.github.io/allaboutart/journal/"
+  - ABOUT: "https://rohindaswani.github.io/allaboutart/about/"
 
 # All translation keys
 translations:
