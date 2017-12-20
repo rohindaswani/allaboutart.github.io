@@ -15,10 +15,10 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
-  avatar: avatar.png
-  favicon: favicon.ico
-  info: photography website template
+  name: "rohindaswani"
+  avatar: "avatar.png"
+  favicon: "favicon.ico"
+  info: "photography website template"
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -27,13 +27,13 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : "disqus"
   disqus :
     short_name : ""
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
+  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"
   - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
   - ABOUT: "https://sunbliss.github.io/photorama/about/"
 
@@ -43,21 +43,21 @@ translations:
   permalink: "/404.html"
 
 # Server
-destination:      	 ./_site
-port:             	 4000
+destination: "./_site"
+port: "4000"
 
 
 # Build settings
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
+markdown: "kramdown"
+highlighter: "rouge"
+permalink: "pretty"
 paginate: 5
 paginate_path: "/journal/page:num/"
 permalink: "/journal/:title/"
 categories_path: "/journal/category/"
 tags_path: "/journal/tag/"
-gems: 
- - jekyll-paginate
+gems:
+ - "jekyll-paginate"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 # SiteMap
