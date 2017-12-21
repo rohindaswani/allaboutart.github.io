@@ -34,8 +34,8 @@ comments :
 # Internal nav
 nav:
   - GALLERY: "https://rohindaswani.github.io/allaboutart.github.io/gallery/"
-  - JOURNAL: "https://rohindaswani.github.io/allaboutart.github.io/journal/"
   - ABOUT: "https://rohindaswani.github.io/allaboutart.github.io/about/"
+#  - JOURNAL: "https://rohindaswani.github.io/allaboutart.github.io/journal/"
 
 # All translation keys
 translations:
