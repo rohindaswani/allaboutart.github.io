@@ -1,7 +1,7 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
+title: "All About Art"
+email: "rohindaswani@ayraart.com"
+description: "A Knowledge Company for Art Consumers"
 url: "https://rohindaswani.github.io"
 baseurl: "/allaboutart.github.io"
 facebook_username: ""
